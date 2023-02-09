@@ -1,0 +1,148 @@
+
+
+.col-md-2{
+    background-color: rgb(198, 170, 135);
+    width: 800px;
+    height: 951px;
+    float: left;
+  }
+  
+  
+  
+  .To,.Main-section{
+    background-color: aquamarine;
+    width: 800px;
+    height: 951px;
+  
+  }
+  .main{
+    background-color: brown;
+  }
+  .Heading{
+    text-align: center;
+  }
+  .new{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    background-color: #3636db;
+    border: none;
+    color: white;
+    padding: 14px 32px;
+    opacity: 0.7;
+    transition: 0.3s;
+  
+  }
+  .new:hover{
+    opacity: 1;
+  }
+  
+  .newtask-box{
+    text-align: center;
+   
+  }
+  .button
+  {
+      width:100%;
+      text-align: center;
+      
+      
+  }
+  .newB
+  {
+      display: inline-block;
+      margin-left: 16px;
+  }
+  .newB{
+    background-color: #3636db;
+    border: none;
+    color: white;
+    padding: 14px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .newB:hover {
+    opacity: 1
+    
+  }
+  .newA{
+    display: inline-block;
+      margin-left: 18px;
+  }
+  .newA{
+    background-color: #3636db;
+    border: none;
+    color: white;
+    padding: 14px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .newA:hover {background-color:red;
+    transition: 0.3s;
+    opacity: 1;
+  }
+  .line1{
+    color: black;
+    background-color: black;
+    padding: 1px;
+  }
+  .line{
+    color: black;
+    background-color: black;
+    padding: 1px;
+  }
+  
+  .newS{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    background-color: #3636db;
+    border: none;
+    color: white;
+    padding: 14px 32px;
+    
+  
+  }
+  
+  .newS:focus{
+    
+    background-color: rgb(0, 229, 23);
+    color: rgb(16, 11, 11);
+  }
+  .side-nav{
+    background-color: rgb(198, 170, 135);
+    width: 800px;
+    height: 951px;
+  }
+  
+  .newD{
+    text-align: center;
+    margin: auto;
+   
+    background-color: #060611;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    
+  
+  }
+  
+  .newD:focus{
+    
+    background-color: red;
+    color: white;
+  }
+  
+  
